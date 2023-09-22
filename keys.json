@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "skilled-chalice-355514",
+  "private_key_id": "a29716a13449ab125f8a1761f133298104031828",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDUWdwD7FyYCPWb\nbTJkRPvtcfU6u2pb5bfS3dYpF0cH8cHe+ckJOuN+dP3vQZ2i7z8WUdMwRPzgr9ac\neTfe4jmuqnZEbxDnf6DO/9ELBLI+EL6Jk55qk9uQC9s79HiR+ilZSAvmEWBIxMG6\nzqmaApuB+8mX4ojJJf4JuMGYbEMhrubmlZAAZW8WdYDQYyjymdEjOlOfrjvuksYr\nKS0u3QLFfBIW3dhVDEr6kcRUY2aqNkquwrBUkEXXR9ujWZ2t7PyKTmyQ3I+SjDCY\nUpWASt+YxAaEqdLhoCpQEhyrc6EvBDiW5yXVtPDp6dWJRj2eKc7w5VDcJJTyCTa3\nVsZ+WqRxAgMBAAECggEAV3i8fJE8gxQNt/x/KXaRH/o1PgA9i6VQ13ex5DNGeytG\n5QaXnUm4tDqU751jxd4vao5CJDwGvrcv/DyimxktEZn+JapqmDGmmB4gih1hHtfe\n5OT9+ID3jJqVsFi/4cHejnxzCk5WDyOdecnvaxVv4VdKb1pNZi5UOsT0WkkeThzx\nEvKlgqX6oH5diNsuSXFlxsmvcb88yCwxRLWKfjHSaFmxU+upmCopTaxPwJoEzP75\noAMEaC0RhmkORzwnCPXRSxkuqbw4wMq88NHAk+Vw75l/MF/S4hvDWjoh9epkUTu+\nwf+ypfi3AGC8gF4X58K1qbCCdqqJgx1ZOlhwD+MTUQKBgQD9r4iuQCiyueENn8Jo\nLwaxWPDjWsOXq1oFCsVrF3k9jc9B5xG53t1HtwOtWDxTQhn3ytrDEb15WiR+nQMl\nRXr8IWshOqVor1codueHTg6EhuxK+qW/txxW8LDs9s1mYyB75fxon+CkAoY8nb32\nHIayDujEKPFEnAifQPL9/LHe7wKBgQDWScqJBEqRlt8KxZQN1b81QfdLq6+FM8Y5\ns82Oi37FnTeDUnUW8+3VGk7h30UasuntBAcj90mo/WXtPNw7vrGNsi+iP4r+tVpN\nUmZz1k745Jrwlm3MEGSYGskKiEQeFfgk8sfftk86MXjK8PhJ4OV6wnHe1GGM+Qr7\nTRq9/xGynwKBgQCndUC3LZjv6a16rdPJrAkx9nEE0zw7mRvSKjsJJzScAkkmyp4z\n4L6XAWNHAPDJUOANZvWjQMmfGnbusTyLVOMLHhA2nhzkDqJtDphlA4ynxNyj3fKd\nrATkCvvvYDdT9+lQgA9vDOJfwV7VEpd7p3bugNL78b7ZuFokrd349N6BNwKBgQCD\n1Qv8dZ5mqVn454rpZAnpevboH+yw1yRplXut6ZYJf2qKqS0N/O3hv/itr011WoLd\n5S97agRwKc0OQfX/75aOZQQ3Hj6l6u5uSXZsZ3lYWFQWFYXhGGi6xyfOCf1WQQ/T\ns2VR9XgShiMZP1yRHwIvHvctLp4BO6oM5ue/4e+CYwKBgQDwKKyCDqlTNgfVTxOl\nFeUM9deRUWw3oraIkGSUveDD0FcWFOLPCsyzldiC9WwBD0WL5niTAz7didnpTTR9\ngkZKQ3d0priOQakuaZDMxGc4d8acOOYs9tqK+8FcCGrgK9SgTs0i0nmPOdCqO9BM\nJPePScqIn/EfJRwIEQ+U+fYrQQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lista-alumnos@skilled-chalice-355514.iam.gserviceaccount.com",
+  "client_id": "106772128322313533835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lista-alumnos%40skilled-chalice-355514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
